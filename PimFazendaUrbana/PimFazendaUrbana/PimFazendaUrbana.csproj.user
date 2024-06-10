@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaFornecedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaFuncionarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaInicialAgricultor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaInicialComercial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaInicialGerente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TelaSafra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

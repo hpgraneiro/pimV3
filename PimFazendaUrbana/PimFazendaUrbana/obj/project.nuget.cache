@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "smEEDwCTcAX4V5DtGrP41+XtyyPELLCR1vDWUEKKKg2XKIyRy/foLPDMDp9DHBVAdMxmXYk/+W2iNm24Zlv/5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANGELO\\Desktop\\pim\\PimFazendaUrbana\\PimFazendaUrbana\\PimFazendaUrbana.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANGELO\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\ANGELO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ANGELO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ANGELO\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
